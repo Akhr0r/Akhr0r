@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhr0r
 - 👀 I’m interested in Front End, Back End and Dart.
 - 🌱 I’m currently learning Front End.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front End.
 - 📫 How to reach me akhror.ortikov.1996@gmail.com
 
 <!---
